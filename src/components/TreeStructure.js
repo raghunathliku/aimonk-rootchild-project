@@ -44,11 +44,11 @@ function TreeNode({ node, onUpdate }) {
   return (
     <div className="nodeContainer" style={{ border: '2px solid #0081ff94', marginBottom: '10px' }}>
       <div className="nodeHeader">
-        <button className="btn btn-secondary" style={{ width: '7%' }} onClick={toggleExpand}>
+        <button className="btn btn-secondary" style={{ width: '7%' ,padding:'0'}} onClick={toggleExpand}>
           {isExpanded ? 'v' : '>'}
         </button>
         <h6 style={{ margin: '0 10px' }}>{node.name}</h6>
-        <button className="btn btn-secondary" style={{ width: '7%' }} onClick={addChild}>
+        <button className="btn btn-secondary" style={{ width: '7%' ,padding:'0'}} onClick={addChild}>
           Add Child
         </button>
       </div>
