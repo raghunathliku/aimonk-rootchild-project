@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aimonk-rootchild-project/static/css/main.7ea6cdc1.css",
-    "main.js": "/aimonk-rootchild-project/static/js/main.6e6c4434.js",
+    "main.js": "/aimonk-rootchild-project/static/js/main.dd88f241.js",
     "static/js/453.b3e3bb56.chunk.js": "/aimonk-rootchild-project/static/js/453.b3e3bb56.chunk.js",
     "index.html": "/aimonk-rootchild-project/index.html",
     "main.7ea6cdc1.css.map": "/aimonk-rootchild-project/static/css/main.7ea6cdc1.css.map",
-    "main.6e6c4434.js.map": "/aimonk-rootchild-project/static/js/main.6e6c4434.js.map",
+    "main.dd88f241.js.map": "/aimonk-rootchild-project/static/js/main.dd88f241.js.map",
     "453.b3e3bb56.chunk.js.map": "/aimonk-rootchild-project/static/js/453.b3e3bb56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ea6cdc1.css",
-    "static/js/main.6e6c4434.js"
+    "static/js/main.dd88f241.js"
   ]
 }
