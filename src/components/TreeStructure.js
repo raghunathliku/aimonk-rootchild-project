@@ -4,7 +4,7 @@ import '../App.css';
 
 function TreeNode({ node, onUpdate }) {
   const [isExpanded, setIsExpanded] = useState(false);
-  const [data, setData] = useState(node.data || '');
+  const [data, setData] = useState(node.data || ''); 
 
   const toggleExpand = () => {
     setIsExpanded(!isExpanded);
